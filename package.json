@@ -1,9 +1,9 @@
 {
   "name": "casv2",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "description": "Central Authentication Service (CAS) V2 client for Node.js",
   "keywords": ["cas", "central authentication service", "auth", "authentication", "central", "service"],
-  "author": "Chris Song <fakechris@gmail.com>",
+  "author": "Francis Schmaltz",
   "dependencies": {
     "xml2js": ">=0.4.1"
   },
