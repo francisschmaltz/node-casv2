@@ -6,6 +6,8 @@
 
   Generally, to start the login process, send your users to: `https://cas_base_url/login?service=url_to_handle_ticket_validation`. In the University of Waterloo example below, this url would be: `https://cas.uwaterloo.ca/cas/login?service='my_service'`.
 
+  hard fork of: https://github.com/fakechris/node-casv2
+
 ## Installation
 
 via npm:
